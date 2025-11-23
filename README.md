@@ -125,11 +125,15 @@ The booking success rate (indicated by the blue segment) is roughly equal for bo
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Insights:** The top five builders in terms of revenue and booking success are ranked as follows:
 
-Prestige: Highest revenue and booking success .
-Total Environment: Second highest revenue and booking success.
-L&T Realty: Third highest revenue and booking success .
-SNN Raj: Fourth highest revenue and booking success .
-Godrej: Fifth highest revenue and booking success
+**Prestige**: Highest revenue and booking success .
+
+**Total Environment**: Second highest revenue and booking success.
+
+**L&T Realty**: Third highest revenue and booking success .
+
+**SNN Raj**: Fourth highest revenue and booking success .
+
+**Godrej**: Fifth highest revenue and booking success
 
 📌 Results
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
