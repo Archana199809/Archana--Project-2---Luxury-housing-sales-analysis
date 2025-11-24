@@ -57,8 +57,8 @@ Connected dashboard to SQLAlchemy database.
 <img width="1152" height="631" alt="png1" src="https://github.com/user-attachments/assets/8180a1cd-ab52-41a5-9a17-cbdc6ce36b54" />
 
 <img width="1137" height="637" alt="png2" src="https://github.com/user-attachments/assets/102c4860-efc2-442b-a8d9-629ae6ca5c5b" />
+<img width="1321" height="732" alt="png3" src="https://github.com/user-attachments/assets/b407e05c-42ab-417b-8716-3d54cb77dbb3" />
 
-<img width="1127" height="640" alt="png3" src="https://github.com/user-attachments/assets/43988007-0254-4e3d-9ade-e9197328b617" />
 
 Key Insights from the Dashboard
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -136,7 +136,7 @@ The booking success rate (indicated by the blue segment) is roughly equal for bo
 
 **Godrej**: Fifth highest revenue and booking success
 
-**DAX MEASURE:**
+**DAX MEASURE:**[DATA ANALYSIS EXPRESSION]
 --
 Booking_Success_Rate = 
 DIVIDE(
