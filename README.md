@@ -3,7 +3,8 @@ Luxury Housing Sales Analysis – Bengaluru
 
 📌 Project Overview
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-The Luxury housing market is highly competitive and price-sensitive. Developers, real-estate agents, and buyers need data-driven insights to determine which features increase property value, understand buyer preferences, and forecast pricing trends
+This project delivers a professional end-to-end real estate analytics solution for luxury housing in Bengaluru, leveraging a dataset of 100,000+ housing records across multiple builders, projects, and micro-markets.
+The Luxury housing market is highly competitive and price-sensitive. Developers, real-estate agents, and buyers need data-driven insights to determine which features increase property value, understand buyer preferences, and forecast pricing trends.
 
 🎯 Business Objectives & Use Cases
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
