@@ -63,6 +63,7 @@ Connected dashboard to SQLAlchemy database.
 Key Insights from the Dashboard
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 The dashboard explores ten main questions about luxury housing bookings and sales performance:
+
 **1. Quarterly Booking Changes Across Micro-Markets**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Visualization:** A line chart titled "Count of Booking Flag by Quarter_Number and Micro_Market".
