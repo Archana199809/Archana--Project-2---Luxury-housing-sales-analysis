@@ -2,9 +2,7 @@
 Luxury Housing Sales Analysis – Bengaluru
 
 📌 Project Overview
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-This project delivers a professional end-to-end real estate analytics solution for luxury housing in Bengaluru, leveraging a dataset of 100,000+ housing records across multiple builders, projects, and micro-markets.
-The goal is to uncover market patterns, sales performance, buyer behavior, and builder competitiveness in the luxury housing sector.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------The Luxury housing market is highly competitive and price-sensitive. Developers, real-estate agents, and buyers need data-driven insights to determine which features increase property value, understand buyer preferences, and forecast pricing trends
 
 🎯 Business Objectives & Use Cases
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -134,6 +132,14 @@ The booking success rate (indicated by the blue segment) is roughly equal for bo
 **SNN Raj**: Fourth highest revenue and booking success .
 
 **Godrej**: Fifth highest revenue and booking success
+
+**DAX MEASURE:**
+--
+Booking_Success_Rate = 
+DIVIDE(
+    COUNTROWS(FILTER('public luxury_housing_sales_analysis','public luxury_housing_sales_analysis'[Booking_Flag] = "Booked")),
+    COUNTROWS('public luxury_housing_sales_analysis')
+)
 
 📌 Results
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
