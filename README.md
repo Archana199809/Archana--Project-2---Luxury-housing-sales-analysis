@@ -18,8 +18,9 @@ Competitive Pricing: Analyze pricing strategies across builders and market segme
 Amenity Score & Conversion: Determine the correlation between amenities and booking rates.
 
 Quarterly Trend Tracking: Track real estate patterns across fiscal quarters to aid investment decisions.
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 📌 Tech Stack
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 Python → Pandas, NumPy → Data cleaning, feature engineering, exploratory analysis
 
 SQL→ sqlalchemy  → Data warehousing, schema design, and advanced querying
