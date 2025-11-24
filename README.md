@@ -148,4 +148,7 @@ DIVIDE(
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✔ 100,000+ rows cleaned, standardized, and stored in SQL. ✔ Power BI dashboard with interactive, filter-based insights. ✔ Builder, buyer, and market-level intelligence for strategic decisions. ✔ Replicates a real-world BI pipeline for real estate analytics.
 
+✅ Conclusion
+------
+The model can help real-estate companies set competitive prices and understand demand. 
 
